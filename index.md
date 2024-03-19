@@ -49,5 +49,6 @@ L'outil étant riche en fonctionnalités, il y a de nombreux autres écrans tels
 - Un accès direct aux utilisateurs-trices
 - Une simplification des fonctionnalités de départ (pour commencer par un vrai MVP)
 - Plus de disponibilité des personnes décisionnaires
+- Des outils dédiés à la gestion de produits numériques
 
-Je serai ravie d'échanger sur ce projet avec vous, il y a tant à dire ! 
+Je serais ravie d'échanger sur ce projet avec vous, il y a tant à dire ! 
