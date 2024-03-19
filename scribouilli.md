@@ -29,7 +29,7 @@ Proposer un outil libre, ayant le moins de fonctionnalités possibles pour répo
   
 ![Ecran d'édition d'une page dans laquelle on peut renseigner un titre puis son contenu en utilisant le langage markdown. Une aide explique comment insérer des photos et fournit des liens pour expliquer le markdown ou comment personnaliser sa page]({% link images/Modification d'une page.png %})  
   
-Pour tout savoir sur Scribouilli, c'est par ici :
+Pour tout savoir sur Scribouilli, c'est par ici :  
 [Site de présentation](https://scribouilli.org/)  
 [Tester Scribouilli](https://atelier.scribouilli.org)
 
