@@ -1,10 +1,8 @@
 ---
-title: "Accueil"
+title: "Logiciel métier aviculture"
 order: 1
 in_menu: true
 ---
-# Logiciel métier aviculture
-
 _ Outil métier - API - Multi-support - Hors ligne - Très paramétrable _
 
 ## Contexte métier
