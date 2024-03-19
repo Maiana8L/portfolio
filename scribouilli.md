@@ -22,9 +22,14 @@ Proposer un outil libre, ayant le moins de fonctionnalités possibles pour répo
 - Tests
 - Confrontation utilisateurs-trices
 - Amélioration si nécessaire
+- Un peu de communication et une conférence au Capitole du Libre
 
 ## Visuels
+![Atelier de Scribouilli permettant de créer une nouvelle page ou de changer l'ordre des pages dans le menu de son site, mais aussi, via l'entête, d'accéder à son site, et au paramétrage]({% link images/Atelier Scribouilli.png %})
+![Ecran d'édition d'une page dans laquelle on peut renseigner un titre puis son contenu en utilisant le langage markdown. Une aide explique comment insérer des photos et fournit des liens pour expliquer le markdown ou comment personnaliser sa page]({% link images/Modification d'une page.png %})
+Pour tout savoir sur Scribouilli, c'est par ici :
+[Site de présentation](https://scribouilli.org/)
+[Tester Scribouilli](https://atelier.scribouilli.org)
 
-![Texte décrivant l'image]({% link images/Modification d'une page.png %})
-
-## Si c'était à refaire, 
+## Si c'était à refaire,
+Je ne changerai rien, à part le fait de trouver plus de disponibilités pour les améliorations en continue 
