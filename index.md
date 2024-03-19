@@ -3,6 +3,10 @@ title: "Logiciel métier aviculture"
 order: 0
 in_menu: true
 ---
+# Logiciel métier aviculture
+
+_ Outil métier - API - Multi-support - Hors ligne - Très paramétrable _
+
 ## Contexte métier
 
 La filière avicole française est structurée de telle manière que les élevages de volailles font généralement partie d'organisations de production (OP). En plus des éleveurs-ses qui s'occupent de leurs animaux quotidiennement et effectuent un suivi journalier (mortalité, poids, consommations d'eau et aliment, paramètres d'ambiance, etc), des techniciens-ciennes des OP viennent régulièrement compléter ce suivi par des visites techniques, voire des audits sur des thématiques précises.
