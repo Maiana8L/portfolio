@@ -30,17 +30,19 @@ Créer un outil s'adressant aux différents métiers de la filière, afin que le
 
 
 ## Process
-
-### Recueil du besoin initial
-### Priorisation et sprints
-### Ateliers de conception et maquettage
-### Tests
-### Déploiement
-#### Communication
-#### Supports d'accompagnement
-#### Formation
+- Recueil du besoin initial
+- Priorisation et sprints
+- Ateliers de conception et maquettage
+- Tests
+- Déploiement
+  - Communication
+  - Supports d'accompagnement
+  - Formation
 
 ## Visuels
+![Page d'accueil web d'un utilisateur type profil éleveur avec le menu pour accéder aux différentes fonctionnalités à gauche, des accès rapides concernant ses lots de volailles en cours et passés au centre, des widgets de rappels et notifications à droite]({% link images/Page accueil éleveur.png %})
+![Déroulé des écrans mobile pour saisir les informations techniques journalières d'un lot de poulets comme la mortalité, le poids, etc]({% link images/Mobile - Fiche élevage.png %})
+![Comparatif de 2 écrans, l'un web et l'autre mobile, pour saisir les données de la catégorie poids. Sur mobile, il n'y a que les champs du jour que l'on veut compléter, avec possibilité de changer de jour sur le haut de l'écran. Sur le web, on voit aussi un tableau récapitulant d'autres poids renseignés les jours précédents, en plus de la possibilité de saisir un poids pour un jour donné]({% link images/Saisie poids - mobile et web.png %})
 
 
 ## Points d'amélioration
