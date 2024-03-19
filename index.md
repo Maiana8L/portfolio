@@ -15,8 +15,10 @@ Concrètement, les données en élevages dont notées sur support papier, parfoi
 ## Objectif
 
 Créer un outil s'adressant aux différents métiers de la filière, afin que les données soient saisies en direct par les éleveurs-euses et techniciens-ciennes puis accessibles par les personnes qui en ont besoin, tout en étant consolidées afin de faciliter leur lecture, et permettre de réaliser des prises de décision et des projections techniques et économiques sur les productions.
+![Objectif de l'outil : renforcer les liens entre les parties prenantes de la filière, être plus rapide et plus précis dans l'analyse des données d'élevage]({% link images/Objectif.png %})
+![L'outil s'articule en différents modules : élevage, technicien, pilotage et stratégie]({% link images/Modules et fonctionnalités principales.png %})
 
-### Challenges
+## Challenges
 
 - Diversité des profils utilisateurs-trices  
 - Diversité des fonctionnalités et personnalisation  
@@ -25,3 +27,22 @@ Créer un outil s'adressant aux différents métiers de la filière, afin que le
 - Création d'API (et import de l'historique de données)  
 - Révolution d'usage  
 - Contexte international 
+
+
+## Process
+
+### Recueil du besoin initial
+### Priorisation et sprints
+### Ateliers de conception et maquettage
+### Tests
+### Déploiement
+#### Communication
+#### Supports d'accompagnement
+#### Formation
+
+## Visuels
+
+
+## Points d'amélioration
+- Avoir un accès direct aux utilisateurs-trices
+- Simplifier les attentes initiales en termes de fonctionnalités (MVP) 
