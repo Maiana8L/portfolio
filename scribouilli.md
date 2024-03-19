@@ -25,4 +25,6 @@ Proposer un outil libre, ayant le moins de fonctionnalités possibles pour répo
 
 ## Visuels
 
+![Texte décrivant l'image]({% link images/Modification d'une page.png %})
+
 ## Si c'était à refaire, 
