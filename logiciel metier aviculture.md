@@ -12,7 +12,7 @@ Toutes ces données sont intéressantes à traiter par les OP et les autres mail
 
 ## Contexte pratique
 
-Concrètement, les données en élevages dont notées sur support papier, parfois sur des boitiers internes aux élevages dont la récupération est complexe. Les données ne sont donc pas analysées en temps réelles, parfois en interne via excel, souvent à des entreprises tiers via des logiciels qui sollicitent beaucoup de petites main pour insérer les données et dont les graphiques et tableaux de bord sont très limités.
+Concrètement, les données en élevages sont notées sur support papier, parfois sur des boitiers internes aux élevages dont la récupération est complexe. Les données ne sont donc pas analysées en temps réelles, parfois en interne via excel, souvent à des entreprises tiers via des logiciels qui sollicitent beaucoup de petites main pour insérer les données et dont les graphiques et tableaux de bord sont très limités.
 
 ## Objectif
 
