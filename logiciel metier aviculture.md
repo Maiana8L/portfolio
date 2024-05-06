@@ -24,7 +24,7 @@ Créer un outil s'adressant aux différents métiers de la filière, afin que le
 
 - Diversité des profils utilisateurs-trices  
 - Diversité des fonctionnalités et personnalisation  
-- Asymétrie mobile et web  
+- Assymétrie mobile et web  
 - Gestion du hors-ligne  
 - Création d'API (et import de l'historique de données)  
 - Révolution d'usage  
