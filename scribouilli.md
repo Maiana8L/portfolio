@@ -32,6 +32,7 @@ Proposer un outil libre, ayant le moins de fonctionnalités possibles pour répo
 Pour tout savoir sur Scribouilli, c'est par ici :  
 [Site de présentation](https://scribouilli.org/)  
 [Tester Scribouilli](https://atelier.scribouilli.org)
+[Visionner la conférence au Capitole du Libre](https://www.youtube.com/watch?v=krRPLxzkZTw)
 
 ## Si c'était à refaire,
 Je ne changerai rien, à part le fait de trouver plus de disponibilités pour les améliorations en continue 
