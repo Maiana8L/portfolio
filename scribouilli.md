@@ -35,4 +35,4 @@ Pour tout savoir sur Scribouilli, c'est par ici :
 [Visionner la conférence au Capitole du Libre](https://www.youtube.com/watch?v=krRPLxzkZTw)
 
 ## Si c'était à refaire,
-Je ne changerai rien, à part le fait de trouver plus de disponibilités pour les améliorations en continue 
+Je ne changerai rien à la réalisation, par contre on a sous estimé la maintenance pour les bugs et améliorations continues 
