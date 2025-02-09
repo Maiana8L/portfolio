@@ -30,5 +30,5 @@ Recommandations-collaboratives permet à tout service public de lancer une plate
 [Site Recommandations Collaboratives](https://recommandations-collaboratives.beta.gouv.fr/)
 
 ## Si c'était à refaire, ...
-Je signe où ??
+Je signe où ?
 Un fonctionnement d'équipe comme celui-ci était si précieux ! 
