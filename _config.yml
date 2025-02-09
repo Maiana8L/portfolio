@@ -5,4 +5,5 @@ plugins:
   - jekyll-feed
   - jekyll-git-hash
 theme: mimoza
-baseurl: /portfolio
+scribouilli: true
+baseurl: /fichiers_pour_maia
